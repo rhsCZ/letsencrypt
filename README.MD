@@ -1,7 +1,7 @@
 get python version `$ python -V`
 install python 2 requirements for hook cloudflare
 ```
-$ pip install -r hooks/cloudflare/requirements-python-2.txt
+$ pip install -r ~/workspace/letsencrypt/cloudflare-hook/requirements-python-2.txt
 ```
 config for cloudflare hook
 ```
